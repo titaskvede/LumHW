@@ -30,4 +30,3 @@ The Task1 was also done in an automated way simply because I wanted to check how
 As such,. both task results were placed in the same report for easy access of both test results.
 
 **NOTE:** Due to tight schedule, some tests where defined but not written for task 1.
-**NOTE:** Usually when pushing to git, some folders should be ignore. such as '.idea' ,'.gradle', 'build' and other. In this case I decided to fully merge the full report simply because I lack the knowledge, on how to create virtual environment in Java. 
