@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="IMDb Automation Suite" parallel="false">
+    <test name="Task1 Suite">
+        <classes>
+            <class name="Task1.tests.PageContentTests"/>
+        </classes>
+    </test>
+
+    <test name="Task2 Suite">
+        <classes>
+            <class name="Task2.tests.SmokeTest"/>
+        </classes>
+    </test>
+</suite>
